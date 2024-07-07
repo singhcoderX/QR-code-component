@@ -1,7 +1,7 @@
 {
-  "name": "typescript-setup",
+  "name": "qr-scanner",
   "version": "1.0.0",
-  "description": "Typescript setup template",
+  "description": "QR code component",
   "main": "index.tsx",
   "scripts": {
     "build": "webpack --config webpack/webpack.config.js --env env=prod",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/singhcoderX/typescript-setup.git"
+    "url": "git+https://github.com/singhcoderX/QR-code-component"
   },
   "author": "Aryan Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/singhcoderX/typescript-setup/issues"
+    "url": "https://github.com/singhcoderX/QR-code-component/issues"
   },
-  "homepage": "https://github.com/singhcoderX/typescript-setup#readme",
+  "homepage": "https://github.com/singhcoderX/QR-code-component#readme",
   "devDependencies": {
     "@babel/core": "^7.23.9",
     "@babel/preset-env": "^7.23.9",
