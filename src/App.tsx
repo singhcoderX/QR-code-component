@@ -10,10 +10,10 @@ const App = (props: Props) => {
           src={qrImage}
           width={288}
         />
-        <div className="px-[16px] mt-[16px]  text-center font-bold text-2xl text-[#1F314F] font-outfit">
+        <div className="px-[16px] mt-[24px]  text-center font-bold text-2xl text-[#1F314F] font-outfit">
           Improve your front-end skills by building projects
         </div>
-        <div className="mt-[16px] px-[24px]  text-center text-[#7D889E] font-outfit">
+        <div className="mt-[8px] px-[24px]  text-center text-[#7D889E] font-outfit font-normal">
           Scan the QR code to visit Frontend Mentor and take your coding skills
           to the next level
         </div>
